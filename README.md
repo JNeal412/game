@@ -11,7 +11,7 @@
 
 ## 运行方式
 1.  安装依赖：`pip install pygame pillow`
-2.  运行游戏：`python game.`
+2.  运行游戏：`python game.py`
 
 ## 操作说明
 - `←` `→` 或 `A` `D`：移动挡板
